@@ -5,7 +5,6 @@ format:
   pdf: default
 ---
 
-
 FIRST: The undersigned, Martin Laptev, whose address is
 12020 Amber Ridge Circle Apt 301, Germantown, MD 20876,
 being at least eighteen (18) years of age, does hereby form a nonprofit,
@@ -77,20 +76,10 @@ ELEVENTH: The Corporation may indemnify any and all of its current and
 future directors, officers, employees and agents as provided in the
 Bylaws of the Corporation.
 
-IN WITNESS WHEREOF, I have signed these Articles of Incorporation and
-acknowledged the same to be my own act on this 13th day of February, 2024.
+IN WITNESS WHEREOF, I, Martin Laptev, being more than 18 years of age and a citizen of the State
+of Maryland, hereby consent to being designated in this document as Resident Agent for this corporation and have signed these Articles of Incorporation and acknowledged the same to be my own act on this 13th day of February 2024.
 
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-Martin Laptev
-
-Founder
-
-**Consent of Resident Agent**
-
-I, Martin Laptev, being more than 18 years of age and a citizen of the State
-of Maryland, hereby consent to being designated in this document as
-Resident Agent for this corporation.
+\
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 Martin Laptev
