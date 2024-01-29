@@ -1,6 +1,6 @@
 # Read in the pdb file
 
-  load dna.pdb
+  load 25atcg.pdb
 
 # Set orthoscopic view
 
