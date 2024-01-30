@@ -1,6 +1,6 @@
 # Read in the pdb file
 
-  load B.pdb
+  load 75atcg.pdb
 
 # Set orthoscopic view
 
@@ -42,11 +42,11 @@
 
   set sphere_mode, 9
 
-  show spheres, c_atoms
-  show spheres, h_atoms
-  show spheres, o_atoms
-  show spheres, n_atoms
-  show spheres, p_atoms
+# show spheres, c_atoms
+# show spheres, h_atoms
+# show spheres, o_atoms
+# show spheres, n_atoms
+# show spheres, p_atoms
 
 # Colour atoms
   color grey80, c_atoms
@@ -68,21 +68,28 @@
 # just use "set sphere_scale"
 # Here we set it as a percentage of the vdwr
 
-  set sphere_scale, 0.200, c_atoms
-  set sphere_scale, 0.100, h_atoms
-  set sphere_scale, 0.250, o_atoms
-  set sphere_scale, 0.150, n_atoms
-  set sphere_scale, 0.300, p_atoms
+# set sphere_scale, 0.200, c_atoms
+# set sphere_scale, 0.100, h_atoms
+# set sphere_scale, 0.250, o_atoms
+# set sphere_scale, 0.150, n_atoms
+# set sphere_scale, 0.300, p_atoms
 
 # Define the colour and thickness of the bond-sticks
 
   set_bond stick_color, black, (all), (all)
   set_bond stick_radius, 0.10, (all), (all)
-  show sticks
+# show sticks
 
 # hide cartoon and ribbon
-  hide cartoon
+# hide cartoon
   hide ribbon
+
+# rotate so that the circle is split in halves vertically
+  rotate z, 18
+
+# set color by element
+
+  color atomic
 
 # Set the transparency of the spheres, 0=solid, 0.3 semi-transparent.
 
