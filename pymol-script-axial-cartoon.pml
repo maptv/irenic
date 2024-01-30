@@ -88,7 +88,6 @@
   rotate z, 18
 
 # set color by element
-
   color atomic
 
 # Set the transparency of the spheres, 0=solid, 0.3 semi-transparent.
@@ -114,4 +113,4 @@
 
 # save image to file
 
-  png b-dna-axial.png, dpi=300, ray=1
+  png deirenic-wheel-color.png, dpi=1200, width=2400, ray=1
