@@ -1,13 +1,10 @@
 # Read in the pdb file
-
   load 75atcg.pdb
 
 # Set orthoscopic view
-
   set orthoscopic, on
 
 # Set view (axial) (USE THE CMD "GET_VIEW" IN PYMOL FOR THESE DATA)
-
   set_view (\
      1.000000000,    0.000000000,    0.000000000,\
      0.000000000,    1.000000000,    0.000000000,\
@@ -19,16 +16,12 @@
 # Set view (side-on)
 
 # Turn off depth cue (use 1 to turn on)
-
   set depth_cue, 0
 
 # Set background colour to white
-
   bg_color white
 
-
 # Add the hydrogens
-
 # h_add
 
 # Initialise "selections"
@@ -39,7 +32,6 @@
   select p_atoms, symbol P
 
 # Show the atoms as spheres
-
   set sphere_mode, 9
 
 # show spheres, c_atoms
@@ -56,12 +48,10 @@
   color grey10, p_atoms
 
 # To prepare the image we need to specify the quality. 
-
   set surface_quality, 3
   rebuild
 
 # Turn on antialiasing
-
   set antialias, 4
 
 # To set the scale of the spheres equal to the Van der Waal radius
@@ -75,23 +65,21 @@
 # set sphere_scale, 0.300, p_atoms
 
 # Define the colour and thickness of the bond-sticks
-
-  set_bond stick_color, black, (all), (all)
-  set_bond stick_radius, 0.10, (all), (all)
+# set_bond stick_color, black, (all), (all)
+# set_bond stick_radius, 0.10, (all), (all)
 # show sticks
 
-# hide cartoon and ribbon
+# Hide cartoon and ribbon
 # hide cartoon
   hide ribbon
 
-# rotate so that the circle is split in halves vertically
+# Rotate so that the circle is split in halves vertically
   rotate z, 18
 
-# set color by element
+# Set color by element, comment this out if you want greyscale
   color atomic
 
 # Set the transparency of the spheres, 0=solid, 0.3 semi-transparent.
-
   set sphere_transparency, 0.0
 
 # Set background to transparent (off or 0=transparent, on or 1=opaque)
@@ -108,9 +96,7 @@
 # "ray" turns on ray tracing of the image.  For publication, 300 dpi
 # is standard, and if the image is to be 4 inches in size then
 # 300x4=1200 which is the value used here.
-
   ray 1200,1200
 
-# save image to file
-
+# Save image to file
   png deirenic-wheel-color.png, dpi=1200, width=2400, ray=1
