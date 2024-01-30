@@ -29,7 +29,7 @@
 
 # Add the hydrogens
 
-  h_add
+# h_add
 
 # Initialise "selections"
   select c_atoms, symbol C
@@ -40,7 +40,7 @@
 
 # Show the atoms as spheres
 
-  set sphere_mode, 5
+  set sphere_mode, 9
 
   show spheres, c_atoms
   show spheres, h_atoms
@@ -78,7 +78,11 @@
 
   set_bond stick_color, black, (all), (all)
   set_bond stick_radius, 0.10, (all), (all)
-#  show sticks
+  show sticks
+
+# hide cartoon and ribbon
+  hide cartoon
+  hide ribbon
 
 # Set the transparency of the spheres, 0=solid, 0.3 semi-transparent.
 
