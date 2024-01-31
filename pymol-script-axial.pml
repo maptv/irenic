@@ -72,6 +72,9 @@
   hide cartoon
   hide ribbon
 
+# Rotate so that the circle is split in halves vertically
+  rotate z, 18
+
 # Set color by element, comment this out if you want greyscale
   color atomic
 
