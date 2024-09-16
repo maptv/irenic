@@ -1,19 +1,19 @@
 ---
 title: "ARTICLES OF INCORPORATION"
-subtitle: "Irenism, Inc."
+subtitle: "Ireni Co."
 format:
   pdf: default
 ---
 
 FIRST: The undersigned, Martin Laptev, whose address is
-12020 Amber Ridge Circle Apt 301, Germantown, MD 20876,
+,
 being at least eighteen (18) years of age, does hereby form a nonprofit,
 nonstock corporation under and by virtue of the General Laws of the
 State of Maryland authorizing the formation of corporations.
 
 SECOND: The name of the corporation (hereinafter called the "Corporation") is:
 
-Irenism, Inc.
+Ireni Co.
 
 THIRD: The Corporation is organized exclusively as a charitable and
 educational organization within the meaning of section 501(c)(3) of the
@@ -23,7 +23,7 @@ regulations thereunder, hereinafter collectively referred to as the
 Internal Revenue Code), for the following purposes:
 
 (a) to nurture physical, mental, and spiritual wellbeing through education and service;
-(b) to promote the use of Dec, a decimal calendar and timekeeping system that measures years and/or days since midnight March 1st, 1 BC;
+(b) to promote the use of Dec, a measurement system that uses turns instead of months, weeks, hours, minutes, seconds, and degrees;
 (c) to advance Deirenism, a religion which seeks to find common ground between rationalistic theology and other belief systems; and
 (d) to engage in any other activities which are not inconsistent with Section 501(c)(3) of the Internal Revenue Code and applicable state law.
 
@@ -35,10 +35,10 @@ Corporation shall have the following powers:
 (c) to exercise any power, or engage in any function, incidental to accomplishing the nonprofit purposes of the Corporation provided or allowed by the General Laws of the State of Maryland, now or hereafter in force, to non-stock corporations, without limitation by the above description of specific powers.
 
 FIFTH: The address of the principal office of the Corporation in this
-state is: 12020 Amber Ridge Circle Apt 301, Germantown, MD 20876.
+state is: 
 
 SIXTH: The Resident Agent of the Corporation is Martin Laptev, whose address
-is 12020 Amber Ridge Circle Apt 301, Germantown, MD 20876.
+is 
 The Resident Agent is a citizen of and resides in the
 State of Maryland.
 
@@ -77,7 +77,7 @@ future directors, officers, employees and agents as provided in the
 Bylaws of the Corporation.
 
 IN WITNESS WHEREOF, I, Martin Laptev, being more than 18 years of age and a citizen of the State
-of Maryland, hereby consent to being designated in this document as Resident Agent for this corporation and have signed these Articles of Incorporation and acknowledged the same to be my own act on this 13th day of February 2024.
+of Maryland, hereby consent to being designated in this document as Resident Agent for this corporation and have signed these Articles of Incorporation and acknowledged the same to be my own act on this 16th day of September 2024.
 
 \
 
