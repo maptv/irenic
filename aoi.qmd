@@ -22,9 +22,9 @@ provisions of any future United States Internal Revenue law or
 regulations thereunder, hereinafter collectively referred to as the
 Internal Revenue Code), for the following purposes:
 
-(a) to nurture physical, mental, and spiritual wellbeing through education and service;
-(b) to promote the use of Dec, a measurement system that uses turns instead of months, weeks, hours, minutes, seconds, and degrees;
-(c) to advance Deirenism, a religion which seeks to find common ground between rationalistic theology and other belief systems; and
+(a) to nurture physical and mental wellbeing through education and service;
+(b) to support the use and continued development of Free and Open-Source Software (FOSS)
+(c) Dec, a measurement system that uses turns instead of months, weeks, hours, minutes, seconds, and degrees;
 (d) to engage in any other activities which are not inconsistent with Section 501(c)(3) of the Internal Revenue Code and applicable state law.
 
 FOURTH: In order to carry out the purposes of the Corporation, the
